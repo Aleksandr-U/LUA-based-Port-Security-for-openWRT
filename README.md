@@ -4,29 +4,7 @@ LUA + TC Port Security
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Port Security Lua Script - User Guide</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 20px;
-    }
-    h1, h2, h3 {
-        color: #2c3e50;
-    }
-    pre {
-        background-color: #f4f4f4;
-        padding: 10px;
-        overflow-x: auto;
-    }
-    code {
-        background-color: #f4f4f4;
-        padding: 2px 4px;
-    }
-    ul {
-        margin-left: 20px;
-    }
-</style>
+
 </head>
 <body>
 
