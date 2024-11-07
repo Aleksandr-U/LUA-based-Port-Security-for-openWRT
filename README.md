@@ -1,2 +1,2 @@
-# LUA-based-Port-Security-for-openWRT
+# LUA-based-Port-Security
 LUA + TC Port Security for openWRT
